@@ -1,0 +1,22 @@
+ul {
+  border: 1px solid black;
+  width: 20%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+li {
+  list-style-type: none;
+}
+
+body {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+form label {
+  width: 50%;
+}
